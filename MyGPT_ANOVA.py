@@ -8,7 +8,7 @@ python
 Copy code
 """
 
-
+import pandas as pd
 import scipy.stats as stats
 
 # Example data (replace this with your own data)
