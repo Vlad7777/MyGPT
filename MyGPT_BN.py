@@ -5,9 +5,6 @@ Bayesian Networks, also known as Belief Networks or Bayesian Networks, are proba
 
 First, install the pgmpy library:
 
-bash
-Copy code
-
 pip install pgmpy
 Now, let's create a basic Bayesian Network using pgmpy:
 
