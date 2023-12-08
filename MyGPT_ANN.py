@@ -8,8 +8,7 @@ Copy code
 pip install tensorflow
 Here's a simple program:
 
-python
-Copy code
+python code
 """
 
 import tensorflow as tf
