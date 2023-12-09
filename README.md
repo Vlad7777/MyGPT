@@ -1,2 +1,2 @@
 # MyGPT
-Optimization methods
+Optimization methods coded in Python
